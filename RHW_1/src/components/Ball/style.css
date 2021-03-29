@@ -1,0 +1,12 @@
+.ball {
+    background-color: aqua;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 50px;
+    transition: all 1s;
+}
+
+.ball:hover {
+    transform: translateX(150px);
+}

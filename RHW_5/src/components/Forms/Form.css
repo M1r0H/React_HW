@@ -1,0 +1,11 @@
+.singUp{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aqua;
+    width: 250px;
+    border-radius: 20px;
+    min-height: 300px;
+    align-content: center;
+}
